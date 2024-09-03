@@ -1,0 +1,15 @@
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/bin/Debug/net8.0/csharp_data_type
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/bin/Debug/net8.0/csharp_data_type.deps.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/bin/Debug/net8.0/csharp_data_type.runtimeconfig.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/bin/Debug/net8.0/csharp_data_type.dll
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/bin/Debug/net8.0/csharp_data_type.pdb
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.AssemblyInfoInputs.cache
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.AssemblyInfo.cs
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.csproj.CoreCompileInputs.cache
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.sourcelink.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.dll
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/refint/csharp_data_type.dll
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.pdb
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/csharp_data_type.genruntimeconfig.cache
+/Volumes/WD Elements/UniBH_wd/00 UniBH_estudos_VS/csharp/csharp_data_type/obj/Debug/net8.0/ref/csharp_data_type.dll
